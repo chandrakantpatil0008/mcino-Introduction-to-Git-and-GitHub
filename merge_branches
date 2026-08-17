@@ -1,10 +1,9 @@
 $ git checkout main
 Already on 'main'
-Your branch is ahead of 'origin/main' by 1 commit.
-(use "git push" to publish your local commits)
+Your branch is up to date with 'origin/main'.
 
 $ git merge bug-fix-typo
-Updating 5376113..5e53180
+Updating cb47afd..5e53180
 Fast-forward
-README.md | 1 +
-1 file changed, 1 insertion(+)
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
