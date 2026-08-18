@@ -16,3 +16,4 @@ Output
 _© 2022 XYZ, Inc._
 Typo fix
 Simple interest calculator project.
+Bug fix update
